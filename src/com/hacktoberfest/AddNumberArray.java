@@ -12,7 +12,7 @@ public class AddNumberArray {
 	}
 	
 	public AddNumberArray() {
-		int []nums = {3,6,7,10,34,56};
+		int []nums = {3,6,7,10,34,56,1337};
 		
 		int s = calcSum(nums);
 		System.out.println(s);
